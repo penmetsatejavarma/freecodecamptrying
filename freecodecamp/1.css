@@ -1,0 +1,19 @@
+.emo{
+    display:flex;
+    justify-content:center;
+}
+button{
+    display: block;
+    width:200px;
+    height:20px;
+    margin-right:auto;
+    margin-left:250px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-radius:20px;
+    background: color #dfe1e5;;
+}
